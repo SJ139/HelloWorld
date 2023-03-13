@@ -12,3 +12,5 @@ print()
 
 for i in range(1, 4):
     print(i)
+
+print(a + b / 3 - 4 * 12)
